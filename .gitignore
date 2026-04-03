@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.ipynb_checkpoints/
+.env
+.venv/
+
+# Data
+*.zip
+*.tar.gz
+
+# Plots 
+# *.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
